@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreacttesting661a7a18": {}
+      },
+      "api": {
+        "amplifyreacttesting": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
